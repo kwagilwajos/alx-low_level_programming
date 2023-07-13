@@ -1,7 +1,6 @@
 #include <stdio.h>
-
 /*
- *puts usage
+ *the main function puts usage
  */
 int main(void)
 {
