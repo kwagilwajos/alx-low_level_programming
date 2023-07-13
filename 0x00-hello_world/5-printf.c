@@ -1,8 +1,7 @@
 #include <stdio.h>
-/*
- * main - function 
- * shows the use of printf
- * Return 0 if everything is okay
+/**
+ * main - function
+ * Return: 0 if everything is okay
  */
 int main(void)
 {
