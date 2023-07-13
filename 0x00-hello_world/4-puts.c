@@ -1,6 +1,7 @@
 #include <stdio.h>
 /*
  *the main function puts usage
+ *Returns 0 to indicate succesful transaction
  */
 int main(void)
 {
