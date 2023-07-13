@@ -1,6 +1,7 @@
 #include <stdio.h>
 /*
- *the main function puts usage
+ *The main function puts usage
+ *just shows the uses of puts
  *Returns 0 to indicate succesful transaction
  */
 int main(void)
