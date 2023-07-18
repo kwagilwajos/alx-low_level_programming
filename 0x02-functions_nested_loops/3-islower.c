@@ -4,7 +4,7 @@
  * _islower - function
  * Return: 0 if everything is okay
  */
-int _islower(int c);
+int _islower(int c)
 {
 return (islower(x) ? 1 : 0);
 
