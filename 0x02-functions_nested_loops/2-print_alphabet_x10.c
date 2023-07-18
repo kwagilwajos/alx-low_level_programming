@@ -9,7 +9,10 @@ int x = 0;
 
 while (x<10)
 {
-print_alphabet();
+for (char letter = 'a'; letter <= 'z'; letter++)
+_putchar(letter);
+
+_putchar('\n');
 x++;
 }
 
