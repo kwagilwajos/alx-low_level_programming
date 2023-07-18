@@ -1,5 +1,5 @@
 #include "main.h"
-#include <stdlibe.h>
+#include <stdlib.h>
 /**
  * _abs - function
  * @c: integer
