@@ -1,5 +1,8 @@
 #include "main.h"
-
+/**
+ * main - function
+ * Return: 0 if everything is okay
+ */
 int main(void)
 {
 _putchar('_');
