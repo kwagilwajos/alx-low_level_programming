@@ -5,8 +5,6 @@
  */
 void print_rev(char *s)
 {
-if (s == NULL)
-return;
 
 int length = 0;
 char *end = s;
