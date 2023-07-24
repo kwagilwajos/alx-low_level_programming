@@ -39,6 +39,7 @@ divisor /= 10;
 }
 if (i < n - 1)
 _putchar(',');
+_putchar(' ');
 }
 _putchar('\n');
 }
